@@ -1,0 +1,34 @@
+/* 1. */
+* {
+  color: #222;
+}
+
+/* 2. */
+#user-links {
+  text-align: right;
+  font-family: sans-serif;
+}
+
+/* 3. */
+#center-logo {
+  text-align: center;
+}
+
+/* 4. */
+#nav-links {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+
+  /* Bonus */
+  /* letter-spacing: 2px; */
+}
+
+/* Bonuses */
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
